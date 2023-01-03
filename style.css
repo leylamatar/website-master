@@ -119,7 +119,37 @@ nav .menu .menu-button:hover {
     background-color: #0ba2c0;
     color: white;
 }
-
+.about{
+    color: aliceblue;
+    font-weight: 200px;
+    justify-content: center;
+}
+.about{
+    background-color: #0ba2c0;
+}
+.content2 p {
+    font-size: 24px;
+    text-align: center;
+    padding: 200px;
+}
+.content2 h1{
+    padding: 50px;
+    text-align: center;
+}
+.contact{
+    color: aliceblue;
+}
+.content3 p {
+    
+    font-size: 24px;
+    text-align: center;
+    padding: 200px;
+}
+.content3 h1{
+    
+    padding: 50px;
+    text-align: center;
+}
 /*! section end  */
 
 /*! responsive start */
